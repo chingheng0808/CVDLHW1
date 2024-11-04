@@ -1,0 +1,19 @@
+.card {
+  width: 100%;
+  min-width: 200px;
+  flex: 1;
+  margin: 0 10px;
+}
+.mg-0 {
+  margin: 0 !important;
+}
+.pd-0 {
+  padding: 0 !important;
+}
+.button-container {
+  height: 100%; /* 自定義高度，可根據需求調整 */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+}
